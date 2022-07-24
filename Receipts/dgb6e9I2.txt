@@ -1,0 +1,7 @@
+Receipt for the Transaction.............
+Mercedes CLA 79677.0
+Opel Crossland 45743.5
+Toyota Carrola 498759.99
+Opel Corsa 47984.99
+Total: 672163.0
+End of the transactions..........
